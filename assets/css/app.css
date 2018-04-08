@@ -1,0 +1,76 @@
+/* Common */
+.description {
+  padding: 5rem 0;
+}
+
+/* Navigation */
+.nav-background {
+  background-color: #01579B;
+}
+
+.nav-links li a {
+  color: #ffffff;
+}
+
+.sidenav {
+  background-color: #01579B;
+}
+
+.sidenav li a {
+  color: #ffffff;
+}
+
+.sidenav-trigger {
+  color: #ffffff;
+}
+
+.brand-logo {
+  height: 65px;
+  width: 65px;
+}
+
+@media screen and (max-width: 601px) {
+  .brand-logo {
+    height: 55px;
+    width: 55px;
+  }
+}
+
+/* Footer */
+/* Home */
+body {
+  background-color: #f9f9f9;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Call to action */
+.hero {
+  background-image: url("https://pinnacleforum.com/wp-content/uploads/2016/03/Indianapolis.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+
+.hero-logo {
+  padding: 5rem 0 0 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 31.25em;
+  width: 31.25em;
+}
+
+.hero-donate {
+  padding: 5rem 0 0 0;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+/* Widgets */
+/* Blogs */
+.blogs {
+  padding: 5rem 0 0 0;
+}
+/*# sourceMappingURL=app.css.map */
